@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Text2img · Cloudflare Workers</h1>
   <p>基于 Cloudflare Workers AI 的在线文生图/图生图/重绘服务，开箱即用。</p>
-  <a href="https://text2img.huarzone.com/" target="_blank">在线体验</a>
+  <a href="[https://text2img.huarzone.com](https://shiny-king-b3b5.z1956444369.workers.dev/)/" target="_blank">在线体验(默认密码admin123)</a>
 </div>
 
 <picture>
